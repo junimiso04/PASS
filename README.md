@@ -22,7 +22,7 @@ PASS(Program Automated Scoring System)는 SQLite을(를) 활용한 콘솔 프로
       -출력(text)
 
 ## Arguments
-```EX:) .\PASS.exe -c SET-1 -p C:\test.exe```
+```EX:) .\PASS.exe -c SET-1 -p "C:\test.exe"```
 
 ProblemCode 속성 : (-c, --code, /c)\
 Path 속성 : (-p, --path, /p)
