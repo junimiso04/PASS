@@ -45,7 +45,7 @@ PASS에서 사용가능한 명령어는 위와 같습니다.
  * 일부 변수의 단위 변경.
  * 주요 기능에 대한 예외 처리.
  * GUI 지원.
- * Systax Highlight 기능 지원.
+ * Syntax Highlight 기능 지원.
  * DB 자동 동기화 기능 지원.
 
 ## License
