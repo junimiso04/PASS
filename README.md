@@ -1,6 +1,8 @@
 # PASS
 PASS(Program Automated Scoring System)는 SQLite을(를) 활용한 콘솔 프로그램 전용 코딩 문제 채점 시스템입니다.
 ## Description
+![Structure](./images/structure.png)
+
 * 작동 과정
   1. 프로그램 경로 지정.
   2. 문제 정보 불러오기(SQLite DB 사용|문제 코드, 문제 설명, 가용 메모리 용량, 제한 시간, 입력, 출력 등)
