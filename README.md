@@ -51,19 +51,7 @@ PASS에서 사용가능한 명령어는 위와 같습니다.
  * DB 자동 동기화 기능 지원.
 
 ## License
-본 프로그램의 소스코드는 MIT License/X11에 의거하여 자유로운 사용이 가능하며, 저작권자의 실명 혹은 이명을 별도의 허가 없이 광고 등의 목적으로 사용하는 것을 금지합니다.
-
-X11 License
-
-Copyright (C) 2019 Next Experience Studio.
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE X CONSORTIUM BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-Except as contained in this notice, the name of the X Consortium shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software without prior written authorization from the Next Experience Studio.
+본 프로그램의 소스코드는 MIT 라이선스하에 자유로운 사용이 가능합니다.
 
 ## Notice
 현재 업로드 된 버전은 채점 기능에 다소 오류가 있을 수 있으며, 이는 이후 지속적으로 보완될 예정입니다. 그 외에 프로그램을 사용하는데에 있어 치명적인 오류를 발견하신다면 GitHub 이슈 혹은 아래 이메일로 연락을 주시면 감사하겠습니다.
