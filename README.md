@@ -1,5 +1,11 @@
 # PASS
+
+```
+※ NOTICE : 현재 V2 개발이 진행중입니다.
+```
+
 PASS(Program Automated Scoring System)는 SQLite을(를) 활용한 콘솔 프로그램 전용 코딩 문제 채점 시스템입니다.
+
 ## Description
 ![Structure](./images/structure.png)
 
